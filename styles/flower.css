@@ -72,17 +72,26 @@ body {
 
 .footer-body {
     text-align: center;
-    margin-top: 0px auto;
-    padding: 0px auto;
-    max-width: 400px;
-    /* padding-left: 650px; */
+    justify-content: center;
+    /* margin-top: 0px auto; */
+    /* padding: 0px auto; */
+    max-width: 625px;
+    padding-left: 650px;
     color: rgba(255, 255, 255, 0.90);
 
     font-size: 18px;
     font-weight: 400;
+    margin-bottom: 32px;
 
 }
-
+.footer-copy-right{
+    padding-left: 780px;
+color: rgba(255, 255, 255, 0.40);
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+}
 footer {
     background: #111010;
 }
