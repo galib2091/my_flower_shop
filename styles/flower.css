@@ -50,6 +50,39 @@ body {
     margin-bottom: 32px;
     margin-top: 32px;
 }
-#button-space{
+
+#button-space {
     margin-bottom: 170px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 128px;
+    margin-bottom: 24px;
+}
+
+.footer-color {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-body {
+    text-align: center;
+    margin-top: 0px auto;
+    padding: 0px auto;
+    max-width: 400px;
+    /* padding-left: 650px; */
+    color: rgba(255, 255, 255, 0.90);
+
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+footer {
+    background: #111010;
 }
