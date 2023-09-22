@@ -55,6 +55,27 @@ body {
     margin-bottom: 170px;
 }
 
+.feature-container{
+margin: 178px 240px 128px 240px;
+}
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.section-body{
+    margin: 0 auto;
+    max-width: 600px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+
 
 /* Footer style section */
 .footer-title {
